@@ -1,0 +1,2 @@
+../MyDrivers/Src/I2C.c:10:6:I2C_PeriphCmd	16	static
+../MyDrivers/Src/I2C.c:29:6:I2C_Init	32	static

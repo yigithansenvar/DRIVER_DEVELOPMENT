@@ -1,0 +1,12 @@
+../MyDrivers/Src/USART.c:4:13:closeUSART_ISR	16	static
+../MyDrivers/Src/USART.c:14:13:closeUSART_ISR_Rx	16	static
+../MyDrivers/Src/USART.c:24:13:USART_SendWith_IT	24	static
+../MyDrivers/Src/USART.c:48:13:USART_ReceiveWith_IT	24	static
+../MyDrivers/Src/USART.c:100:6:USART_Init	40	static
+../MyDrivers/Src/USART.c:162:6:USART_TransmitData	32	static
+../MyDrivers/Src/USART.c:196:20:USART_GetFlagStatus	16	static
+../MyDrivers/Src/USART.c:202:6:USART_PeriphCmd	16	static
+../MyDrivers/Src/USART.c:216:6:USART_ReceiveData	32	static
+../MyDrivers/Src/USART.c:264:6:USART_TransmitData_IT	32	static
+../MyDrivers/Src/USART.c:287:6:USART_InterruptHandler	24	static
+../MyDrivers/Src/USART.c:311:6:USART_ReceiveData_IT	32	static
